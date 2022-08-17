@@ -3,7 +3,7 @@ Example of how to use [Datacake](https://datacake.co/) with Python and [Streamli
 
 ## Data
 
-In this example, we use a demo workspace on Datacake by integrating 135 Blues Wireless AirNote Devices.
+In this example, we use a demo workspace on Datacake by integrating 135 [Blues Wireless AirNote](https://blues.io/products/airnote/) Devices.
 
 The Python script reads these devices via GraphQL and visualizes them in Streamlit.
 
