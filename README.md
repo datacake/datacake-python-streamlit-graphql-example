@@ -9,7 +9,7 @@ The Python script reads these devices via GraphQL and visualizes them in Streaml
 
 ### Token
 
-The tokens stored in this Python script are only responsible for reading the data and have no write permissions. So they can be used quietly as a demonstration. This also as an info to Datacake's employees, who would otherwise wonder about security vulnerabilities. LOL.
+The tokens stored in this Python script are only responsible for reading the data and have no write permissions. They are here just for demoing purposes. This is intended.
 
 ## Installation
 
